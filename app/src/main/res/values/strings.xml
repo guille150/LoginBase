@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginBase</string>
+    <string name="app_name1">Transiciones #1 - danielme.com</string>
+    <string name="app_name2">Transiciones #2 - danielme.com</string>
+    <string name="forwardZoom">Zoom (siguiente)</string>
+    <string name="left">Izquierda</string>
+    <string name="right">Derecha</string>
+    <string name="zoomBack">Zoom (atrás)</string>
+    <string name="fade">Desvanecer</string>
+    <string name="bydefault">Por omisión</string>
+    <string name="bydefaultback">Por omisión (volver)</string>
+    <string name="generalAvisoCerrarSesion">¿Desea cerrar sesión?</string>
+    <string name="ALERT_DIALOG_SI">Si</string>
+    <string name="ALERT_DIALOG_NO">No</string>
+    <string name="ALERT_DIALOG_ACEPTAR">Aceptar</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="continuar">Continuar</string>
+    <string name="error_network">Conexión de red no disponible</string>
+    <string name="error_field_required">Este campo es requerido</string>
+</resources>

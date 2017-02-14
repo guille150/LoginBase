@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1177b8</color>
+    <color name="colorPrimaryDark">#166091</color>
+    <color name="colorAccent">#D3ddea</color>
+
+    <color name="blanco">#FFF</color>
+    <color name="blanco_2">#bcffffff</color>
+    <color name="oscuro">#B3000000</color>
+    <color name="negro">#000000</color>
+
+    <!--Colores app-->
+    <color name="background_transparent">#B3004368</color>
+    <color name="background_1">#004368</color>
+    <color name="background_2">#166091</color>
+    <color name="background_3">#1177b8</color>
+    <color name="background_4">#f6f6f5</color>
+    <color name="background_5">@color/blanco</color>
+
+    <color name="textColor_1">#343434</color>
+    <color name="textColor_2">#575757</color>
+    <color name="textColor_3">#9e9e9e</color>
+    <color name="textColor_4">@color/blanco</color>
+
+    <color name="textColor_red">@color/generalColor_red</color>
+    <color name="textColor_yellow">@color/generalColor_yellow</color>
+    <color name="textColor_green">@color/generalColor_verde</color>
+    <color name="textColor_blue_1">@color/generalColor_blue</color>
+    <color name="textColor_blue_2">#004368</color>
+    <color name="textColor_blue_3">#669ec4</color>
+
+    <color name="buttonColor_1">#669ec4</color>
+    <color name="buttonColor_2">#9bc8e2</color>
+    <color name="buttonColor_3">#a1bdd5</color>
+    <color name="buttonColor_4">#d3ddea</color>
+    <color name="buttonColor_5">#dfdfde</color>
+
+    <color name="generalColor_blue">#1177b8</color>
+    <color name="generalColor_purpura">#8f3b86</color>
+    <color name="generalColor_verde">#8dc63f</color>
+    <color name="generalColor_yellow">#fbae17</color>
+    <color name="generalColor_red">#c1272d</color>
+    <color name="generalColor_pink">#d4145a</color>
+
+
+</resources>
